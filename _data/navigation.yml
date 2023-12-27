@@ -6,8 +6,8 @@ main:
   - title: "Horarios y precios"
     url: /horario-precios/
 
-  - title: "Certificados"
-    url: /skills-certifications/
+#  - title: "Certificados"
+#    url: /skills-certifications/
     
-  - title: "Galería"
-    url: /media/
+#  - title: "Galería"
+#    url: /media/
