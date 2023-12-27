@@ -22,4 +22,4 @@ redirect_from:
 
 
 
-[Back to CV](https://asoler.github.io/cv/)
+[Back to CV](https://clubasoler.github.io/cv/)

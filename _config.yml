@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Club Deportivo A. Soler"
 title_separator          : "-"
-name                     : &name "asoler"
+name                     : &name "clubasoler"
 description              : &description "personal description"
-url                      : https://asoler.github.io
+url                      : https://clubasoler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iagea/asoler.github.io"
+repository               : "clubasoler/clubasoler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

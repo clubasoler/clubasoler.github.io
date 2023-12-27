@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 Club Deportivo A. Soler, en Guardamar del Segura. 
-Dónde encontrarnos: [Contacto](https://asoler.github.io/contacto/) 
-Horarios: [Horarios](https://asoler.github.io/horario-precios/) 
-Precios: [Precios](https://asoler.github.io/horario-precios/) 
-
-
+Dónde encontrarnos: [Contacto](https://clubasoler.github.io/contacto/) 
+Horarios: [Horarios](https://clubasoler.github.io/horario-precios/) 
+Precios: [Precios](https://clubasoler.github.io/horario-precios/) 
