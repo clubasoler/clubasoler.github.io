@@ -8,7 +8,3 @@ HORARIOS:
 
 <img src='/images/horarios_asoler.jpeg'> 
 
-
-
-
-
